@@ -1,0 +1,33 @@
+/* IMPORTS */
+@import url('./Variables.css');
+
+.box-boton{
+    background-color: var(--b);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 7px;
+    border-radius: 25px;
+    margin-bottom: 12px;
+}
+
+.img-boton{
+    display: flex;
+    align-items: center;
+    flex-basis: 15%;
+    border-radius: 50%;
+    overflow: hidden;
+}
+
+.text-boton{
+    flex-basis: 70%;
+    text-align: center;
+    text-decoration: none;
+    color: var(--grey);
+    font-weight: 600;
+}
+
+.ico-boton{
+    flex-basis: 10%;
+    color: var(--grey);
+}

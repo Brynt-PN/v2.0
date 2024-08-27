@@ -1,0 +1,32 @@
+/* IMPORTS */
+@import url('./Variables.css');
+
+.sec-info{
+  width: 70%;
+  margin: 0  auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.perfil-container{
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  overflow: hidden;
+  margin-bottom: 5px;
+}
+
+.text-container{
+  text-align: center;
+}
+
+h1{
+  color: var(--green);
+  margin-bottom: 20px;
+}
+p{
+  color: var(--green-c);
+  font-weight: 500;
+}
