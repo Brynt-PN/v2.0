@@ -25,6 +25,12 @@ img{
   height: auto;
 }
 
-.App{
-  padding: 30px;
+.box-general{
+  padding:20px 30px;
+}
+
+@media (max-width: 767px) {
+  .box-general{
+    padding:0px 30px;
+  }
 }
