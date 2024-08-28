@@ -20,11 +20,12 @@
 }
 
 .text-boton{
-    flex-basis: 70%;
+    flex-basis: 75%;
     text-align: center;
     text-decoration: none;
     color: var(--grey);
     font-weight: 600;
+    max-width: 270px;
 }
 
 .ico-boton{

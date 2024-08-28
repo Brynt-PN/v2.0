@@ -6,60 +6,42 @@
     },
     "SecBotonList": [
         {
-            "tituloLinks": "Brayant Lo logro",
+            "tituloLinks": "Conecta de forma profesional",
             "Botons": [
                 {
-                    "logo": "WhatsApp.jpg",
-                    "linkContac": "https://wa.me/qr/TZW2LGG75QZ3J1",
-                    "tituloLink": "Escribeme ;)",
-                    "linkShare": "https://www.google.com/"
+                    "logo": "LinkedIn.png",
+                    "linkContac": "https://www.linkedin.com/in/brayant-palomino-navarro",
+                    "tituloLink": "Conéctate conmigo en LinkedIn",
+                    "linkShare": "https://www.linkedin.com/in/brayant-palomino-navarro"
                 },
                 {
-                    "logo": "WhatsApp.jpg",
-                    "linkContac": "https://wa.me/qr/TZW2LGG75QZ3J1",
-                    "tituloLink": "Escribeme ;)",
-                    "linkShare": "https://www.google.com/"
+                    "logo": "Github.png",
+                    "linkContac": "https://github.com/Brynt-PN",
+                    "tituloLink": "Explora mis proyectos en GitHub",
+                    "linkShare": "https://github.com/Brynt-PN"
                 },
                 {
-                    "logo": "WhatsApp.jpg",
-                    "linkContac": "https://wa.me/qr/TZW2LGG75QZ3J1",
-                    "tituloLink": "Escribeme ;)",
-                    "linkShare": "https://www.google.com/"
-                },
-                {
-                    "logo": "WhatsApp.jpg",
-                    "linkContac": "https://wa.me/qr/TZW2LGG75QZ3J1",
-                    "tituloLink": "Escribeme ;)",
-                    "linkShare": "https://www.google.com/"
+                    "logo": "Gmail.png",
+                    "linkContac": "mailto:70989902bpn@gmail.com",
+                    "tituloLink": "Obtén mi CV actualizado",
+                    "linkShare": "https://mail.google.com/mail/?view=cm&fs=1&to=70989902bpn@gmail.com&su=ContactoLink&body=Hola"
                 }
             ]
         },
         {
-            "tituloLinks": "Brayant Lo logro",
+            "tituloLinks": "Redes Personales",
             "Botons": [
                 {
-                    "logo": "WhatsApp.jpg",
-                    "linkContac": "https://wa.me/qr/TZW2LGG75QZ3J1",
-                    "tituloLink": "Escribeme ;)",
-                    "linkShare": "https://www.google.com/"
+                    "logo": "WhatsApp.png",
+                    "linkContac": "https://wa.me/51952871603?text=Hola",
+                    "tituloLink": "¡Envíame un mensaje directo!",
+                    "linkShare": "https://wa.me/qr/TZW2LGG75QZ3J1"
                 },
                 {
-                    "logo": "WhatsApp.jpg",
-                    "linkContac": "https://wa.me/qr/TZW2LGG75QZ3J1",
-                    "tituloLink": "Escribeme ;)",
-                    "linkShare": "https://www.google.com/"
-                },
-                {
-                    "logo": "WhatsApp.jpg",
-                    "linkContac": "https://wa.me/qr/TZW2LGG75QZ3J1",
-                    "tituloLink": "Escribeme ;)",
-                    "linkShare": "https://www.google.com/"
-                },
-                {
-                    "logo": "WhatsApp.jpg",
-                    "linkContac": "https://wa.me/qr/TZW2LGG75QZ3J1",
-                    "tituloLink": "Escribeme ;)",
-                    "linkShare": "https://www.google.com/"
+                    "logo": "Instagram.png",
+                    "linkContac": "https://www.instagram.com/brayan_con_t/",
+                    "tituloLink": "Descubre mis momentos en Instagram",
+                    "linkShare": "https://www.instagram.com/brayan_con_t/"
                 }
             ]
         }
