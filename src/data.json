@@ -1,0 +1,67 @@
+{
+    "secInfo": {
+        "perfil": "perfil.jpg",
+        "usuario": "@brayantpalomino",
+        "descripcion": "Desarrollando soluciones"
+    },
+    "SecBotonList": [
+        {
+            "tituloLinks": "Brayant Lo logro",
+            "Botons": [
+                {
+                    "logo": "WhatsApp.jpg",
+                    "linkContac": "https://wa.me/qr/TZW2LGG75QZ3J1",
+                    "tituloLink": "Escribeme ;)",
+                    "linkShare": "https://www.google.com/"
+                },
+                {
+                    "logo": "WhatsApp.jpg",
+                    "linkContac": "https://wa.me/qr/TZW2LGG75QZ3J1",
+                    "tituloLink": "Escribeme ;)",
+                    "linkShare": "https://www.google.com/"
+                },
+                {
+                    "logo": "WhatsApp.jpg",
+                    "linkContac": "https://wa.me/qr/TZW2LGG75QZ3J1",
+                    "tituloLink": "Escribeme ;)",
+                    "linkShare": "https://www.google.com/"
+                },
+                {
+                    "logo": "WhatsApp.jpg",
+                    "linkContac": "https://wa.me/qr/TZW2LGG75QZ3J1",
+                    "tituloLink": "Escribeme ;)",
+                    "linkShare": "https://www.google.com/"
+                }
+            ]
+        },
+        {
+            "tituloLinks": "Brayant Lo logro",
+            "Botons": [
+                {
+                    "logo": "WhatsApp.jpg",
+                    "linkContac": "https://wa.me/qr/TZW2LGG75QZ3J1",
+                    "tituloLink": "Escribeme ;)",
+                    "linkShare": "https://www.google.com/"
+                },
+                {
+                    "logo": "WhatsApp.jpg",
+                    "linkContac": "https://wa.me/qr/TZW2LGG75QZ3J1",
+                    "tituloLink": "Escribeme ;)",
+                    "linkShare": "https://www.google.com/"
+                },
+                {
+                    "logo": "WhatsApp.jpg",
+                    "linkContac": "https://wa.me/qr/TZW2LGG75QZ3J1",
+                    "tituloLink": "Escribeme ;)",
+                    "linkShare": "https://www.google.com/"
+                },
+                {
+                    "logo": "WhatsApp.jpg",
+                    "linkContac": "https://wa.me/qr/TZW2LGG75QZ3J1",
+                    "tituloLink": "Escribeme ;)",
+                    "linkShare": "https://www.google.com/"
+                }
+            ]
+        }
+    ]
+}

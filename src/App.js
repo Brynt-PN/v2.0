@@ -2,29 +2,24 @@ import './App.css';
 // COMPONENTES ------------
 import SecInfo from './components/SecInfo';
 import SecBoton from './components/SecBoton';
+import data from './data.json';
 
 function App() {
 
-  const contenSecBoton = {
-    tituloLinks : 'Brayant Lo logro',
-    Botons : [
-        {logo : 'WhatsApp.jpg',linkContac : 'https://wa.me/qr/TZW2LGG75QZ3J1',tituloLink : 'Escribeme ;)'},
-        {logo : 'WhatsApp.jpg',linkContac : 'https://wa.me/qr/TZW2LGG75QZ3J1',tituloLink : 'Escribeme ;)'},
-        {logo : 'WhatsApp.jpg',linkContac : 'https://wa.me/qr/TZW2LGG75QZ3J1',tituloLink : 'Escribeme ;)'},
-        {logo : 'WhatsApp.jpg',linkContac : 'https://wa.me/qr/TZW2LGG75QZ3J1',tituloLink : 'Escribeme ;)'},
-    ]
-  }
+  const contenPage = data;
 
   return (
     <div className="App">
       <SecInfo 
-      perfil='perfil.jpg'
-      usuario='@brayantpalomino'
-      descripcion='Desarrollando soluciones'
+      contenInfo={contenPage.secInfo}
       />
-      <SecBoton 
-      contenSecBoton={contenSecBoton}
-      />
+      {
+        contenPage.SecBotonList.map((contenSecBoton) =>
+          <SecBoton 
+          contenSecBoton={contenSecBoton}
+          />
+        )
+      }
     </div>
   );
 }

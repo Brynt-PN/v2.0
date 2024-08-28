@@ -30,4 +30,5 @@
 .ico-boton{
     flex-basis: 10%;
     color: var(--grey);
+    cursor: pointer;
 }
